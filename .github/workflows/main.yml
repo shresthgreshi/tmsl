@@ -2,7 +2,7 @@ name: DA
 
 on:
   push:
-    branches:
+    branches: 
     - main
     - master
 
